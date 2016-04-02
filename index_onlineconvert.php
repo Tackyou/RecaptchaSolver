@@ -97,7 +97,7 @@ if(!empty($output)){
 	$getDL = explode('">download the', $getDL[1]);
 	$getDL = $getDL[0];
 	if(!empty($getDL)){
-		sleep(10);
+		sleep(5);
 		$ch = curl_init();
 		curl_setopt($ch, CURLOPT_TIMEOUT, 20);
 		curl_setopt($ch, CURLOPT_COOKIEJAR, 'session.txt');
