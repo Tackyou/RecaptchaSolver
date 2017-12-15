@@ -10,3 +10,5 @@ https://ffmpeg.zeranoe.com/builds/
 I used this one: FFmpeg git-b3eda69 64-bit Static
 
 https://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-20160401-git-b3eda69-win64-static.7z
+
+(Note from Dec'17): Sorry for my use of explode instead of handling the json properly. I just didn't care at the time.
